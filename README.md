@@ -19,7 +19,7 @@ Kullanılan Teknolojiler
 Bu proje, aşağıdaki teknolojileri kullanmaktadır:
 
 - React
-- Lightweight Charts
+- Lightweight Charts(Tradingview)
 - React Router DOM
 - Styled Components
 
