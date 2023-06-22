@@ -1,6 +1,6 @@
 # Crypto Coin App
 
-Bu proje, kripto para birimlerini izlemek için basit bir web uygulamasıdır.
+Turkcell Geleceği yazanlar Bootcampinde takım arkadaşlarımla birlikte geliştiridğim bu proje, kripto para birimlerini izlemek için basit bir web uygulamasıdır.
 
 ## Kurulum ve Çalıştırma
 
