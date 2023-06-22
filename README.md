@@ -4,7 +4,7 @@ Bu proje, kripto para birimlerini izlemek için basit bir web uygulamasıdır.
 
 ## Kurulum ve Çalıştırma
 
-Proje klonlandıktan sonra aşağıdaki adımları takip ederek projeyi başlatabilirsiniz:
+Aşağıdaki adımları takip ederek projeyi başlatabilirsiniz:
 
 ```bash
 git clone https://github.com/07kagan07/crypto-coin-app.git
