@@ -18,10 +18,10 @@ Bu komutlarla projeyi klonlayabilir, gerekli bağımlılıkları yükleyebilir v
 Kullanılan Teknolojiler
 Bu proje, aşağıdaki teknolojileri kullanmaktadır:
 
-React
-Lightweight Charts
-React Router DOM
-Styled Components
+-React
+-Lightweight Charts
+-React Router DOM
+-Styled Components
 
 Demo
 Projenin canlı demo versiyonuna aşağıdaki linkten ulaşabilirsiniz:
